@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kassa</string>
+    <string name="menu_home" />
+    <string name="menu_search" />
+    <string name="menu_notifications" />
+    <string name="menu_profile" />
+</resources>
